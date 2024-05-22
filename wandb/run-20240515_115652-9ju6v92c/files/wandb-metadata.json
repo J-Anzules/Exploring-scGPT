@@ -1,0 +1,207 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.9.18",
+    "heartbeatAt": "2024-05-15T18:56:53.165391",
+    "startedAt": "2024-05-15T18:56:52.219720",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/J-Anzules/Exploring-scGPT.git",
+        "commit": "db4a43272d6ef4b6fbd418ea3d754732237558ba"
+    },
+    "email": "jonanzule@gmail.com",
+    "root": "/mnt/c/Users/jonan/Documents/1Work/scWork/Exploring-scGPT/Code",
+    "host": "DESKTOP-45H3FUM",
+    "username": "jon",
+    "executable": "/home/jon/anaconda3/envs/scGPT/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 3400.0280000000016,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3400.028,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 250.92389297485352,
+            "used": 81.22541046142578
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3080 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3080 Ti",
+            "memory_total": 12884901888
+        }
+    ],
+    "memory": {
+        "total": 31.306598663330078
+    }
+}
